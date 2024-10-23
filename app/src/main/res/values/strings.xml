@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Banco</string>
+    <string name="conta_poupanca">Conta Poupança</string>
+    <string name="conta_especial">Conta Especial</string>
+    <string name="nome">Nome do Cliente</string>
+    <string name="num_conta">Número da Conta</string>
+    <string name="saldo">Saldo</string>
+    <string name="dia_rend">Dia de Rendimento</string>
+    <string name="limite">Limite</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="valor">Valor(R$)</string>
+    <string name="sacar">Sacar</string>
+    <string name="depositar">Depositar</string>
+    <string name="taxa">Taxa de Rendimento(%)</string>
+    <string name="calcular_rendimento">Calcular Rendimento</string>
+    <string name="render">Render</string>
+    <string name="conta_cadastrada">Conta Cadastrada Com Sucesso!</string>
+    <string name="selecione_conta">Selecione uma conta</string>
+</resources>
